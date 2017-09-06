@@ -1,0 +1,2 @@
+32285 [main] INFO  com.andersenlab.TestBase - Start test testSendCVwith parameters [CVData{name='name 0', email='swert.rem@gmail.com;Minsk', place='Minsk', cv="src\test\resources\Resume.PDF"}]
+44087 [main] INFO  com.andersenlab.TestBase - Stop test testSendCVwith parameters [CVData{name='name 0', email='swert.rem@gmail.com;Minsk', place='Minsk', cv="src\test\resources\Resume.PDF"}]

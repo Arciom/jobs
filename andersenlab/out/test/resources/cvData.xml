@@ -1,0 +1,26 @@
+<list>
+  <CvData>
+    <name>name 0</name>
+    <email>swert.rem@gmail.com</email>
+    <place>Minsk</place>
+    <cv>&quot;src\test\resources\Resume.PDF&quot;</cv>
+  </CvData>
+  <CvData>
+    <name>name 1</name>
+    <email>swert.rem@gmail.com</email>
+    <place>Minsk</place>
+    <cv>&quot;src\test\resources\Resume.PDF&quot;</cv>
+  </CvData>
+  <CvData>
+    <name>name 2</name>
+    <email>swert.rem@gmail.com</email>
+    <place>Minsk</place>
+    <cv>&quot;src\test\resources\Resume.PDF&quot;</cv>
+  </CvData>
+  <CvData>
+    <name>name 3</name>
+    <email>swert.rem@gmail.com</email>
+    <place>Minsk</place>
+    <cv>&quot;src\test\resources\Resume.PDF&quot;</cv>
+  </CvData>
+</list>
