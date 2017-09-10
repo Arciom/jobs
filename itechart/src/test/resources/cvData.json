@@ -1,0 +1,11 @@
+[
+  {
+    "name": "name 0",
+    "email": "sample@gmail.com",
+    "phone": "+37500 000-00-00",
+    "cv": {
+      "path": "C:\\devel\\jobs\\itechart\\src\\test\\resources\\Resume.PDF"
+    },
+    "message": "0"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "name 0",
+    "email": "swert.rem@gmail.com",
+    "place": "Minsk",
+    "cv": {
+      "path": "\"src\\test\\resources\\Resume.PDF\""
+    }
+  }
+]
