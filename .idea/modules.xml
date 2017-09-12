@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/andersenlab.iml" filepath="$PROJECT_DIR$/.idea/modules/andersenlab.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/andersenlab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/andersenlab_main.iml" group="andersenlab" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/andersenlab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/andersenlab_test.iml" group="andersenlab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/issoft.iml" filepath="$PROJECT_DIR$/.idea/modules/issoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/issoft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/issoft_main.iml" group="issoft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/issoft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/issoft_test.iml" group="issoft" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/itechart.iml" filepath="$PROJECT_DIR$/.idea/modules/itechart.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/itechart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/itechart_main.iml" group="itechart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/itechart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/itechart_test.iml" group="itechart" />

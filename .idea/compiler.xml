@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="andersenlab_main" target="1.8" />
       <module name="andersenlab_test" target="1.8" />
+      <module name="issoft_main" target="1.8" />
+      <module name="issoft_test" target="1.8" />
       <module name="itechart_main" target="1.8" />
       <module name="itechart_test" target="1.8" />
     </bytecodeTargetLevel>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.andersenlab.CareersTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-08-25T15:49:15" hostname="DESKTOP-K3QMAOL" time="43.647">
+  <properties/>
+  <testcase name="testSendCV[0](com.andersenlab.model.CVData@76d87c34)" classname="com.andersenlab.CareersTest" time="12.535"/>
+  <testcase name="testSendCV[1](com.andersenlab.model.CVData@287fa9cd)" classname="com.andersenlab.CareersTest" time="9.742"/>
+  <testcase name="testSendCV[2](com.andersenlab.model.CVData@6aad279d)" classname="com.andersenlab.CareersTest" time="9.754"/>
+  <testcase name="testSendCV[3](com.andersenlab.model.CVData@3c0b4fc4)" classname="com.andersenlab.CareersTest" time="10.223"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+1503676191784	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/52.3.0/20170802111520/WINNT_x86_64-msvc-x64/en-US/esr/Windows_NT%2010.0.0.0%20(x64)/default/default/update.xml
+1503676194023	addons.productaddons	INFO	Completed downloading document
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+1503676195070	addons.productaddons	INFO	downloadXHR File download. status=200
+1503676195094	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\arciom\AppData\Local\Temp\tmpaddon-77b182
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 163: ReferenceError: event is not defined
+]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "name 0",
+    "email": "sample@gmail.com",
+    "phone": "+37500 000-00-00",
+    "subject": "QA Engineer",
+    "cv": {
+      "path": "\"src\\test\\resources\\Resume.PDF\""
+    },
+    "message": "message 0"
+  }
+]

@@ -1,0 +1,10 @@
+<list>
+  <CvData>
+    <name>name 0</name>
+    <email>sample@gmail.com</email>
+    <phone>+37500 000-00-00</phone>
+    <subject>QA Engineer</subject>
+    <cv>&quot;src\test\resources\Resume.PDF&quot;</cv>
+    <message>message 0</message>
+  </CvData>
+</list>
